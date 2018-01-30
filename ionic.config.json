@@ -1,0 +1,8 @@
+{
+  "name": "warehouse-inventory",
+  "app_id": "36995e47",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
